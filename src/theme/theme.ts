@@ -6,8 +6,8 @@ const theme = createTheme({
   palette,
   typography: typographyOptions,
   shape: {
-    borderRadius: 0
-  }
-})
+    borderRadius: 0,
+  },
+});
 
-export default theme
+export default theme;

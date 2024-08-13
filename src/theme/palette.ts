@@ -1,16 +1,16 @@
 import { PaletteOptions } from "@mui/material";
 
 export const palette: PaletteOptions = {
-  mode: 'light',
+  mode: "light",
   primary: {
-    main: '#3138eb',
-    contrastText: '#fff'
+    main: "#3138eb",
+    contrastText: "#fff",
   },
   text: {
-    primary: '#101828',
-    secondary: '#1D2939'
+    primary: "#101828",
+    secondary: "#1D2939",
   },
-  divider: '#D0D5DD',
+  divider: "#D0D5DD",
   grey: {
     50: "#F9FAFB",
     100: "#F2F4F7",
@@ -23,4 +23,4 @@ export const palette: PaletteOptions = {
     800: "#1D2939",
     900: "#101828",
   },
-}
+};
